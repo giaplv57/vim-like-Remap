@@ -1,0 +1,14 @@
+!Keycode 66 represent for CapsLock key
+!Replace 66 to 37 to change CapsLock to L_Ctrl key
+keycode 66 = Mode_switch Mode_switch
+
+keycode 45 = k K Up
+keycode 44 = j J Down
+keycode 43 = h H Left
+keycode 46 = l L Right
+
+keycode 32 = o O Return
+keycode 53 = x X BackSpace
+keycode 40 = d D Delete
+keycode 19 = 0 0 Home
+keycode 13 = 4 4 End
