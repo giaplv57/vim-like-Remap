@@ -10,5 +10,5 @@ keycode 46 = l L Right
 keycode 32 = o O Return
 keycode 53 = x X BackSpace
 keycode 40 = d D Delete
-keycode 19 = 0 0 Home
-keycode 13 = 4 4 End
+keycode 19 = 0 parenright Home
+keycode 13 = 4 dollar End
